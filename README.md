@@ -23,8 +23,7 @@ Follow the steps below to set up and run the project:
 
 ### Clone the repository
 ```
-git clone https://github.com/YoginKumar21/17_ChakraView.git
-cd 17_ChakraView
+git clone https://github.com/AlyeusC-AI/vr-car.git
 ```
 
 ### Install dependencies
@@ -64,8 +63,5 @@ https://drive.google.com/file/d/14Xvm2XzQHAhrdtcy7N8uEXmZIiBl2rC3/view?usp=drive
 
 ## 👥 Team Members
 <pre>
-Yogin Kumar 
-Samarth
-Sujan Kumar K
-Vinyas
+Alyeus Craig
 </pre>

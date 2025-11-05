@@ -14,11 +14,6 @@ const teamMembers = [
         usn: "4MW22CS179",
         role: "Team Lead",
         description: "Three.js & WebGL Developer",
-        // socials: [
-        //     { icon: link, alt: "LinkedIn", url: "linkedin.com/in/yogin-kumar-9a7a6a372" },
-        //     { icon: insta, alt: "Instagram", url: "https://instagram.com/vijay_netekal_287" },
-        //     { icon: tweet, alt: "Twitter", url: "https://twitter.com/Netekal1Vijay" }
-        // ]
     }
 ];
 
