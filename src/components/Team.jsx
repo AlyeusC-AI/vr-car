@@ -1,9 +1,6 @@
 import './Team.css';
 import Footer from './Footer';
-import yogin from '../assets/team/yogin.png';
-import samarth from '../assets/team/samarth.png';
-import sujan from '../assets/team/sujan.png';
-import vinyas from '../assets/team/vinyas.png';
+import alyeus from '../assets/team/alyeus.png';
 
 import link from '../assets/socials/linkedin.png';
 import git from '../assets/socials/github.png';
